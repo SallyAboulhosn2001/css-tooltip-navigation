@@ -1,3 +1,3 @@
 # css-tooltip-navigation
-A simple navigation bar with tooltips built using only HTML and CSS. When you hover over a navigation item, a tooltip appears above it to provide additional information. This project demonstrates CSS positioning, hover effects, and UI interactivity without JavaScript.
+This project is a simple tooltip. It was developed using HTML and CSS only. The case used is a personal portfolio. When you hover the mouse over one of the items in the bar, a small tooltip will appear to provide extra information about each section.
 https://roadmap.sh/projects/tooltip-ui project page url
