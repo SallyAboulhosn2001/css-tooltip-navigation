@@ -6,4 +6,4 @@ How to use ?
 
 Useful links:
 *project idea from :https://roadmap.sh/projects/tooltip-ui 
-*project link: project idea from :https://roadmap.sh/projects/tooltip-ui 
+*project link: project idea from :https://github.com/SallyAboulhosn2001/css-tooltip-navigation
